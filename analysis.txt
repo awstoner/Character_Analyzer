@@ -1,0 +1,3 @@
+Reading of input set is O(n), as it occurs within one while loop.
+Staring in std::map is O(log(n)).
+Looking up final tracking info is O(n^2)
